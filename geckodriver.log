@@ -1,0 +1,1353 @@
+1630009013198	geckodriver	INFO	Listening on 127.0.0.1:64846
+1630009016290	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofilehv4Ym4"
+1630009016597	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofilehv4Ym4\\search.json.mozlz4", (void 0)))
+1630009018291	Marionette	INFO	Listening on port 64855
+1630009018349	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630009021611	Marionette	INFO	Stopped listening on port 64855
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630009114209	geckodriver	INFO	Listening on 127.0.0.1:50822
+1630009117349	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofile7Zlbhj"
+1630009117650	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofile7Zlbhj\\search.json.mozlz4", (void 0)))
+console.warn: services.settings: main/cfr-fxa sync interrupted by shutdown
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1630009194770	geckodriver	INFO	Listening on 127.0.0.1:61568
+1630009197842	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofile3BR40L"
+1630009198150	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofile3BR40L\\search.json.mozlz4", (void 0)))
+1630009199864	Marionette	INFO	Listening on port 61576
+1630009199899	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630009203283	Marionette	INFO	Stopped listening on port 61576
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630009290952	geckodriver	INFO	Listening on 127.0.0.1:59999
+1630009294035	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofilei9IRA3"
+1630009294339	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofilei9IRA3\\search.json.mozlz4", (void 0)))
+1630009295962	Marionette	INFO	Listening on port 60008
+1630009296105	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/72vdk6ex8to4yaqb4639oo53o, line 2: TypeError: e is undefined
+1630009311248	Marionette	INFO	Stopped listening on port 60008
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630009497886	geckodriver	INFO	Listening on 127.0.0.1:53650
+1630009500987	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileqyGUXB"
+1630009501284	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileqyGUXB\\search.json.mozlz4", (void 0)))
+1630009502990	Marionette	INFO	Listening on port 64057
+1630009503036	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+1630009560407	Marionette	INFO	Stopped listening on port 64057
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630009605618	geckodriver	INFO	Listening on 127.0.0.1:61468
+1630009608709	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileyjp8EC"
+1630009609004	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileyjp8EC\\search.json.mozlz4", (void 0)))
+1630009610690	Marionette	INFO	Listening on port 52186
+1630009610751	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630009768472	Marionette	INFO	Stopped listening on port 52186
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+tings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileAPMwZO\\search.json.mozlz4", (void 0)))
+1630009716511	Marionette	INFO	Listening on port 51629
+1630009716693	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/djaku1nvuwps28315yhrs1a83, line 6132: unreachable code after return statement
+1630009730059	Marionette	INFO	Stopped listening on port 51629
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630009770434	geckodriver	INFO	Listening on 127.0.0.1:64172
+1630009773535	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileaAfj92"
+1630009773826	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileaAfj92\\search.json.mozlz4", (void 0)))
+1630009775486	Marionette	INFO	Listening on port 55173
+1630009775624	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630009852388	Marionette	INFO	Stopped listening on port 55173
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, meconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileYHJo2e\\search.json.mozlz4", (void 0)))
+1630009854160	Marionette	INFO	Listening on port 64530
+1630009854329	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630009858685	Marionette	INFO	Stopped listening on port 64530
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630009927039	geckodriver	INFO	Listening on 127.0.0.1:59697
+1630009930123	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileQMTMnd"
+1630009930428	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileQMTMnd\\search.json.mozlz4", (void 0)))
+1630009932154	Marionette	INFO	Listening on port 60855
+1630009932174	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630009936591	Marionette	INFO	Stopped listening on port 60855
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630010145959	geckodriver	INFO	Listening on 127.0.0.1:56681
+1630010149064	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofile6YGHqk"
+1630010149357	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofile6YGHqk\\search.json.mozlz4", (void 0)))
+1630010151033	Marionette	INFO	Listening on port 51467
+1630010151131	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630010164729	Marionette	INFO	Stopped listening on port 51467
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630010212490	geckodriver	INFO	Listening on 127.0.0.1:60668
+1630010215572	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileCQ4zUQ"
+1630010215869	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileCQ4zUQ\\search.json.mozlz4", (void 0)))
+1630010217594	Marionette	INFO	Listening on port 59692
+1630010217646	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630010224866	Marionette	INFO	Stopped listening on port 59692
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630010235045	geckodriver	INFO	Listening on 127.0.0.1:51272
+1630010238137	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileFIwHie"
+1630010238428	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileFIwHie\\search.json.mozlz4", (void 0)))
+1630010240171	Marionette	INFO	Listening on port 52996
+1630010240215	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630010273016	Marionette	INFO	Stopped listening on port 52996
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630010417654	geckodriver	INFO	Listening on 127.0.0.1:65408
+1630010420748	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofile4RBvrv"
+1630010421046	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofile4RBvrv\\search.json.mozlz4", (void 0)))
+1630010422729	Marionette	INFO	Listening on port 60855
+1630010422785	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript error: , line 0: uncaught exception: undefined
+1630010430857	Marionette	INFO	Stopped listening on port 60855
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630055853217	geckodriver	INFO	Listening on 127.0.0.1:51641
+1630055856295	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileW8CY5D"
+1630055856652	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileW8CY5D\\search.json.mozlz4", (void 0)))
+1630055858449	Marionette	INFO	Listening on port 51650
+1630055858511	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630055864214	Marionette	INFO	Stopped listening on port 51650
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630057098423	geckodriver	INFO	Listening on 127.0.0.1:51516
+1630057101569	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofiledJ6bsx"
+1630057101878	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofiledJ6bsx\\search.json.mozlz4", (void 0)))
+1630057103544	Marionette	INFO	Listening on port 51524
+1630057103616	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript error: , line 0: uncaught exception: undefined
+1630057174650	Marionette	INFO	Stopped listening on port 51524
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+tings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileMUjSh2\\search.json.mozlz4", (void 0)))
+1630057173942	Marionette	INFO	Listening on port 50362
+1630057174139	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript error: , line 0: uncaught exception: undefined
+1630057293667	Marionette	INFO	Stopped listening on port 50361630057294408	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofile8cuKpH"
+1630057294693	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofile8cuKpH\\search.json.mozlz4", (void 0)))
+1630057296344	Marionette	INFO	Listening on port 65325
+1630057296479	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript error: , line 0: uncaught exception: undefined
+1630057387280	Marionette	INFO	Stopped listening on port 65325
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630057388436	geckodriver	INFO	Listening on 127.0.0.1:56275
+1630057391491	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofile6tVaAU"
+1630057391790	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofile6tVaAU\\search.json.mozlz4", (void 0)))
+1630057393498	Marionette	INFO	Listening on port 56283
+1630057393559	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630057726004	Marionette	INFO	Stopped listening on port 56283
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+tings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileZKqs5x\\search.json.mozlz4", (void 0)))
+1630057619635	Marionette	INFO	Listening on port 58184
+1630057619845	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630057632719	Marionette	INFO	Stopped listening on port 58184
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630057727214	geckodriver	INFO	Listening on 127.0.0.1:64545
+1630057730279	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofilesO6kil"
+1630057730570	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofilesO6kil\\search.json.mozlz4", (void 0)))
+1630057732280	Marionette	INFO	Listening on port 64553
+1630057732372	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630057799388	Marionette	INFO	Stopped listening on port 64553
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+tings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileyF4nlI\\search.json.mozlz4", (void 0)))
+1630057797768	Marionette	INFO	Listening on port 55588
+1630057798026	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630057846274	Marionette	INFO	Stopped listening on port 55581630057848736	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofiles1bErg"
+1630057849027	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofiles1bErg\\search.json.mozlz4", (void 0)))
+1630057850693	Marionette	INFO	Listening on port 64885
+1630057850796	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630057930090	Marionette	INFO	Stopped listening on port 64881630057931525	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofilekvXQGc"
+1630057931808	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofilekvXQGc\\search.json.mozlz4", (void 0)))
+1630057933523	Marionette	INFO	Listening on port 62282
+1630057933584	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript error: , line 0: uncaught exception: undefined
+1630057944574	Marionette	INFO	Stopped listening on port 62282
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630058030877	geckodriver	INFO	Listening on 127.0.0.1:65355
+1630058033960	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileMqqkP0"
+1630058034258	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileMqqkP0\\search.json.mozlz4", (void 0)))
+1630058036018	Marionette	INFO	Listening on port 65363
+1630058036035	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630058039251	Marionette	INFO	Stopped listening on port 65363
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630058051416	geckodriver	INFO	Listening on 127.0.0.1:65428
+1630058054510	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileG6GvZI"
+1630058054804	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileG6GvZI\\search.json.mozlz4", (void 0)))
+1630058056713	Marionette	INFO	Listening on port 65436
+1630058057182	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630058074448	Marionette	INFO	Stopped listening on port 65431630058075983	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileqMPkab"
+1630058076271	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileqMPkab\\search.json.mozlz4", (void 0)))
+1630058077924	Marionette	INFO	Listening on port 65511
+1630058078063	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630058151068	Marionette	INFO	Stopped listening on port 65511
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+tings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileDm6JaJ\\search.json.mozlz4", (void 0)))
+1630058122822	Marionette	INFO	Listening on port 49205
+1630058123074	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630058168181	Marionette	INFO	Stopped listening on port 49205
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+Temp\\rust_mozprofileGCf4kG"
+1630058168272	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileGCf4kG\\search.json.mozlz4", (void 0)))
+1630058170331	Marionette	INFO	Listening on port 49286
+1630058170660	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript error: , line 0: uncaught exception: undefined
+1630058233246	Marionette	INFO	Stopped listening on port 49286
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, meconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofilewDq8IL\\search.json.mozlz4", (void 0)))
+1630058234665	Marionette	INFO	Listening on port 64255
+1630058234885	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630058331146	Marionette	INFO	Stopped listening on port 64251630058332672	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileS0ovJX"
+1630058332950	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileS0ovJX\\search.json.mozlz4", (void 0)))
+1630058334630	Marionette	INFO	Listening on port 63971
+1630058334732	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630058354142	Marionette	INFO	Stopped listening on port 63971
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630058355070	geckodriver	INFO	Listening on 127.0.0.1:64041
+1630058358154	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileRkGqB2"
+1630058358449	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileRkGqB2\\search.json.mozlz4", (void 0)))
+1630058360377	Marionette	INFO	Listening on port 64049
+1630058360850	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript warning: https://static-exp1.licdn.com/sc/h/djaku1nvuwps28315yhrs1a83, line 6132: unreachable code after return statement
+1630058377358	Marionette	INFO	Stopped listening on port 64049
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630058542559	geckodriver	INFO	Listening on 127.0.0.1:58936
+1630058545646	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileX8ZuYz"
+1630058545941	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileX8ZuYz\\search.json.mozlz4", (void 0)))
+1630058547614	Marionette	INFO	Listening on port 58944
+1630058547723	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630058554370	Marionette	INFO	Stopped listening on port 58944
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630058568197	geckodriver	INFO	Listening on 127.0.0.1:58980
+1630058571282	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofile5FNkhE"
+1630058571572	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofile5FNkhE\\search.json.mozlz4", (void 0)))
+1630058573247	Marionette	INFO	Listening on port 58988
+1630058573362	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630058716461	Marionette	INFO	Stopped listening on port 58988
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+Temp\\rust_mozprofilejlQqOV"
+1630058636317	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofilejlQqOV\\search.json.mozlz4", (void 0)))
+1630058638061	Marionette	INFO	Listening on port 57944
+1630058638128	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630058715635	Marionette	INFO	Stopped listening on port 57941630058716670	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofilenfusXw"
+1630058716940	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofilenfusXw\\search.json.mozlz4", (void 0)))
+1630058718526	Marionette	INFO	Listening on port 55428
+1630058718743	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630058732339	Marionette	INFO	Stopped listening on port 55428
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630058733786	geckodriver	INFO	Listening on 127.0.0.1:55511
+1630058736872	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileFUds7J"
+1630058737180	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileFUds7J\\search.json.mozlz4", (void 0)))
+1630058738916	Marionette	INFO	Listening on port 55519
+1630058739050	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630058769500	Marionette	INFO	Stopped listening on port 55511630058770878	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofile7NbckB"
+1630058771163	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofile7NbckB\\search.json.mozlz4", (void 0)))
+1630058772879	Marionette	INFO	Listening on port 55614
+1630058772964	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630058808570	Marionette	INFO	Stopped listening on port 55614
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630058809594	geckodriver	INFO	Listening on 127.0.0.1:51920
+1630058812687	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofilePwZC8N"
+1630058812978	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofilePwZC8N\\search.json.mozlz4", (void 0)))
+1630058814670	Marionette	INFO	Listening on port 51929
+1630058814750	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript error: https://static-exp1.licdn.com/sc/h/wvlawxj6p0jsv27gzvd7gqc0, line 1: TypeError: n.error is null
+JavaScript error: https://platform.linkedin.com/litms/utag/jobs-guest-frontend/utag.14.js?utv=ut4.46.202108200434, line 1: TypeError: utag is undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/wvlawxj6p0jsv27gzvd7gqc0, line 1: TypeError: n.error is null
+JavaScript error: https://platform.linkedin.com/litms/utag/jobs-guest-frontend/utag.js?cb=1630058700000, line 1: TypeError: utag is undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/wvlawxj6p0jsv27gzvd7gqc0, line 1: TypeError: n.error is null
+JavaScript error: https://platform.linkedin.com/litms/utag/jobs-guest-frontend/utag.105.js?utv=ut4.46.202108200434, line 1: TypeError: utag is undefined
+1630058909051	Marionette	INFO	Stopped listening on port 51929
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630058918389	geckodriver	INFO	Listening on 127.0.0.1:61194
+1630058921467	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofiley6ZiSP"
+1630058921758	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofiley6ZiSP\\search.json.mozlz4", (void 0)))
+1630058923461	Marionette	INFO	Listening on port 61202
+1630058923545	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630059009135	Marionette	INFO	Stopped listening on port 61202
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, meconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofilebGfyo7\\search.json.mozlz4", (void 0)))
+1630059010784	Marionette	INFO	Listening on port 62155
+1630059010963	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630059042068	Marionette	INFO	Stopped listening on port 62155
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630064584835	geckodriver	INFO	Listening on 127.0.0.1:56430
+1630064587913	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofile1B8nxR"
+1630064588228	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofile1B8nxR\\search.json.mozlz4", (void 0)))
+1630064589919	Marionette	INFO	Listening on port 56438
+1630064589981	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630064936414	Marionette	INFO	Stopped listening on port 56438
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+tings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofiley99qvC\\search.json.mozlz4", (void 0)))
+1630064923063	Marionette	INFO	Listening on port 63697
+1630064923243	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/72vdk6ex8to4yaqb4639oo53o, line 2: TypeError: e is undefined
+1630064933440	Marionette	INFO	Stopped listening on port 63697
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+\AppData\\Local\\Temp\\rust_mozprofilepYGqNm\\search.json.mozlz4", (void 0)))
+1630064931620	Marionette	INFO	Listening on port 63785
+[Parent 7020, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1630064931736	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630064938247	Marionette	INFO	Stopped listening on port 63785
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630064944210	geckodriver	INFO	Listening on 127.0.0.1:63868
+1630064947302	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileRfMzYw"
+1630064947604	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileRfMzYw\\search.json.mozlz4", (void 0)))
+1630064949314	Marionette	INFO	Listening on port 63881
+1630064949380	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/72vdk6ex8to4yaqb4639oo53o, line 2: TypeError: e is undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/72vdk6ex8to4yaqb4639oo53o, line 2: TypeError: e is undefined
+1630064960852	Marionette	INFO	Stopped listening on port 63881
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630065017737	geckodriver	INFO	Listening on 127.0.0.1:64143
+1630065020833	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileJndsY9"
+1630065021132	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileJndsY9\\search.json.mozlz4", (void 0)))
+1630065023308	Marionette	INFO	Listening on port 64151
+1630065023536	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630065380543	Marionette	INFO	Stopped listening on port 64151
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+tings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofile2SwZIY\\search.json.mozlz4", (void 0)))
+1630065377134	Marionette	INFO	Listening on port 54841
+1630065377303	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript error: , line 0: uncaught exception: undefined
+1630065505739	Marionette	INFO	Stopped listening on port 54841
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+tings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileuVQogb\\search.json.mozlz4", (void 0)))
+1630065442543	Marionette	INFO	Listening on port 54938
+1630065442641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630065452278	Marionette	INFO	Stopped listening on port 54938
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630065503458	geckodriver	INFO	Listening on 127.0.0.1:50601
+1630065506546	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofile0DZc2J"
+1630065506845	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofile0DZc2J\\search.json.mozlz4", (void 0)))
+1630065508512	Marionette	INFO	Listening on port 50610
+1630065508624	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.warn: "Resource  of root-node was not found."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+console.warn: "Resource  of root-node was not found."
+1630070225095	Marionette	INFO	Stopped listening on port 50610
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630065914032	geckodriver	INFO	Listening on 127.0.0.1:58341
+1630065917131	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofilenCWCnG"
+1630065917393	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofilenCWCnG\\search.json.mozlz4", (void 0)))
+1630065918968	Marionette	INFO	Listening on port 58349
+1630065919189	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630066020246	Marionette	INFO	Stopped listening on port 58349
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630066022066	geckodriver	INFO	Listening on 127.0.0.1:58447
+1630066025143	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileq08qZc"
+1630066025403	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileq08qZc\\search.json.mozlz4", (void 0)))
+1630066027196	Marionette	INFO	Listening on port 58457
+1630066027303	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630066156716	Marionette	INFO	Stopped listening on port 58451630066157453	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofilesYeNH4"
+1630066157724	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofilesYeNH4\\search.json.mozlz4", (void 0)))
+1630066159330	Marionette	INFO	Listening on port 49976
+1630066159533	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/72vdk6ex8to4yaqb4639oo53o, line 2: TypeError: e is undefined
+1630066379419	Marionette	INFO	Stopped listening on port 49971630066381083	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileIEFE6F"
+1630066381364	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileIEFE6F\\search.json.mozlz4", (void 0)))
+1630066382935	Marionette	INFO	Listening on port 50103
+1630066383159	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/72vdk6ex8to4yaqb4639oo53o, line 2: TypeError: e is undefined
+1630066430907	Marionette	INFO	Stopped listening on port 50101630066432259	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofilejB6gkk"
+1630066432546	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofilejB6gkk\\search.json.mozlz4", (void 0)))
+1630066434152	Marionette	INFO	Listening on port 59527
+1630066434328	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630066454051	Marionette	INFO	Stopped listening on port 59527
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630066455337	geckodriver	INFO	Listening on 127.0.0.1:59606
+1630066458416	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofilexrtVFG"
+1630066458692	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofilexrtVFG\\search.json.mozlz4", (void 0)))
+1630066460285	Marionette	INFO	Listening on port 59615
+1630066460484	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630066700148	Marionette	INFO	Stopped listening on port 59615
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+tings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofilejXGcch\\search.json.mozlz4", (void 0)))
+1630066699638	Marionette	INFO	Listening on port 56352
+1630066699793	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630066711077	Marionette	INFO	Stopped listening on port 56352
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630066796473	geckodriver	INFO	Listening on 127.0.0.1:55197
+1630066799546	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofilenTsWmK"
+1630066799817	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofilenTsWmK\\search.json.mozlz4", (void 0)))
+1630066801370	Marionette	INFO	Listening on port 55205
+1630066801620	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/72vdk6ex8to4yaqb4639oo53o, line 2: TypeError: e is undefined
+1630066915270	Marionette	INFO	Stopped listening on port 55201630066916627	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileheYzx0"
+1630066916901	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileheYzx0\\search.json.mozlz4", (void 0)))
+1630066918515	Marionette	INFO	Listening on port 61795
+1630066918700	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/72vdk6ex8to4yaqb4639oo53o, line 2: TypeError: e is undefined
+1630066933308	Marionette	INFO	Stopped listening on port 61791630066934304	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileb2yfvD"
+1630066934575	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileb2yfvD\\search.json.mozlz4", (void 0)))
+1630066936194	Marionette	INFO	Listening on port 61873
+1630066936361	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630067056971	Marionette	INFO	Stopped listening on port 61873
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+tings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofile6NHbja\\search.json.mozlz4", (void 0)))
+1630066975390	Marionette	INFO	Listening on port 61948
+1630066975553	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630067057813	Marionette	INFO	Stopped listening on port 61948
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630067154141	geckodriver	INFO	Listening on 127.0.0.1:59729
+1630067157206	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileFf1z6A"
+1630067157475	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileFf1z6A\\search.json.mozlz4", (void 0)))
+1630067159070	Marionette	INFO	Listening on port 59737
+1630067159284	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/72vdk6ex8to4yaqb4639oo53o, line 2: TypeError: e is undefined
+1630067193082	Marionette	INFO	Stopped listening on port 59737
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+Temp\\rust_mozprofileFRgTUy"
+1630067193209	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileFRgTUy\\search.json.mozlz4", (void 0)))
+1630067194968	Marionette	INFO	Listening on port 59816
+1630067194998	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630067218717	Marionette	INFO	Stopped listening on port 59811630067219841	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofile1g6XW5"
+1630067220110	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofile1g6XW5\\search.json.mozlz4", (void 0)))
+1630067221740	Marionette	INFO	Listening on port 59889
+1630067221931	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/72vdk6ex8to4yaqb4639oo53o, line 2: TypeError: e is undefined
+1630067382180	Marionette	INFO	Stopped listening on port 59889
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+Temp\\rust_mozprofile7D05IH"
+1630067304024	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofile7D05IH\\search.json.mozlz4", (void 0)))
+1630067305672	Marionette	INFO	Listening on port 52036
+1630067305821	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630067382772	Marionette	INFO	Stopped listening on port 52036
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+tings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileQYwfmU\\search.json.mozlz4", (void 0)))
+1630067331684	Marionette	INFO	Listening on port 60667
+1630067332166	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630067383388	Marionette	INFO	Stopped listening on port 60667
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+tings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofile37CVQf\\search.json.mozlz4", (void 0)))
+1630067348743	Marionette	INFO	Listening on port 60742
+1630067348889	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630067384323	Marionette	INFO	Stopped listening on port 60742
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x690023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+FoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileZ9WX7e\\search.json.mozlz4", (void 0)))
+1630067382863	Marionette	INFO	Listening on port 60819
+1630067382946	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630067577267	Marionette	INFO	Stopped listening on port 60811630067578438	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileprYpaj"
+1630067578722	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileprYpaj\\search.json.mozlz4", (void 0)))
+1630067580346	Marionette	INFO	Listening on port 59422
+1630067580515	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+1630068014694	Marionette	INFO	Stopped listening on port 59422
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+t.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1630067906998	geckodriver	INFO	Listening on 127.0.0.1:55525
+1630067910094	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileiPHOlZ"
+1630067910372	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileiPHOlZ\\search.json.mozlz4", (void 0)))
+1630067912015	Marionette	INFO	Listening on port 55534
+1630067912177	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630068015521	Marionette	INFO	Stopped listening on port 55534
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofile6Ze7n6\\search.json.mozlz4", (void 0)))
+1630068016437	Marionette	INFO	Listening on port 58126
+1630068016611	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1630068915741	Marionette	INFO	Stopped listening on port 58126
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1630068916201	Marionette	INFO	Stopped listening on port 58223
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1630068916659	Marionette	INFO	Stopped listening on port 50769
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+1630068917115	Marionette	INFO	Stopped listening on port 57509
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x801630068917547	Marionette	INFO	Stopped listening on port 49425
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+tings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofilektWP0O\\search.json.mozlz4", (void 0)))
+1630068572325	Marionette	INFO	Listening on port 49500
+1630068572430	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630068917983	Marionette	INFO	Stopped listening on port 49500
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+tings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofilePpcEss\\search.json.mozlz4", (void 0)))
+1630068639555	Marionette	INFO	Listening on port 52743
+1630068639947	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/72vdk6ex8to4yaqb4639oo53o, line 2: TypeError: e is undefined
+1630068918417	Marionette	INFO	Stopped listening on port 52743
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+Temp\\rust_mozprofileVN2o61"
+1630068691549	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileVN2o61\\search.json.mozlz4", (void 0)))
+1630068693406	Marionette	INFO	Listening on port 57256
+1630068693422	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630068703081	Marionette	INFO	Stopped listening on port 57256
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630068808947	geckodriver	INFO	Listening on 127.0.0.1:57415
+1630068812035	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofilewgnt4w"
+1630068812313	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofilewgnt4w\\search.json.mozlz4", (void 0)))
+1630068813894	Marionette	INFO	Listening on port 57423
+1630068814104	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630068919385	Marionette	INFO	Stopped listening on port 57423
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+tings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofilehhUIxN\\search.json.mozlz4", (void 0)))
+1630068899895	Marionette	INFO	Listening on port 64015
+1630068900322	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630068920249	Marionette	INFO	Stopped listening on port 64015
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630068922067	geckodriver	INFO	Listening on 127.0.0.1:64113
+1630068925126	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileWM7h6n"
+1630068925396	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileWM7h6n\\search.json.mozlz4", (void 0)))
+1630068926968	Marionette	INFO	Listening on port 64122
+1630068927208	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/72vdk6ex8to4yaqb4639oo53o, line 2: TypeError: e is undefined
+1630068933522	Marionette	INFO	Stopped listening on port 64122
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630070076358	geckodriver	INFO	Listening on 127.0.0.1:55525
+1630070079418	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofilej7K5EX"
+1630070079689	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofilej7K5EX\\search.json.mozlz4", (void 0)))
+1630070081506	Marionette	INFO	Listening on port 55535
+1630070081600	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630070111824	Marionette	INFO	Stopped listening on port 55535
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+tings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofile7DQxAK\\search.json.mozlz4", (void 0)))
+1630070093787	Marionette	INFO	Listening on port 51320
+1630070093997	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1630075941713	Marionette	INFO	Stopped listening on port 51320
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofilezNIbr8\\search.json.mozlz4", (void 0)))
+1630070495558	Marionette	INFO	Listening on port 60425
+1630070495597	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/72vdk6ex8to4yaqb4639oo53o, line 2: TypeError: e is undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/72vdk6ex8to4yaqb4639oo53o, line 2: TypeError: e is undefined
+1630070503410	Marionette	INFO	Stopped listening on port 60425
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630076014541	geckodriver	INFO	Listening on 127.0.0.1:55364
+1630076017617	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileBxDGAL"
+1630076017922	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileBxDGAL\\search.json.mozlz4", (void 0)))
+1630076019590	Marionette	INFO	Listening on port 55372
+1630076019684	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630076027176	Marionette	INFO	Stopped listening on port 55372
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630076153342	geckodriver	INFO	Listening on 127.0.0.1:57558
+1630076156433	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileol7T2Y"
+1630076156729	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileol7T2Y\\search.json.mozlz4", (void 0)))
+1630076158474	Marionette	INFO	Listening on port 57567
+1630076158589	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/72vdk6ex8to4yaqb4639oo53o, line 2: TypeError: e is undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/72vdk6ex8to4yaqb4639oo53o, line 2: TypeError: e is undefined
+1630076213226	Marionette	INFO	Stopped listening on port 57567
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630076225742	geckodriver	INFO	Listening on 127.0.0.1:58411
+1630076228818	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileSUZLQo"
+1630076229106	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileSUZLQo\\search.json.mozlz4", (void 0)))
+1630076230747	Marionette	INFO	Listening on port 58419
+1630076230893	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630076238187	Marionette	INFO	Stopped listening on port 58419
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630076297851	geckodriver	INFO	Listening on 127.0.0.1:62596
+1630076300921	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileqpT9eU"
+1630076301228	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileqpT9eU\\search.json.mozlz4", (void 0)))
+1630076302962	Marionette	INFO	Listening on port 62604
+1630076303084	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630076309116	Marionette	INFO	Stopped listening on port 62604
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630076320402	geckodriver	INFO	Listening on 127.0.0.1:62686
+1630076323483	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileF9jL5k"
+1630076323778	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileF9jL5k\\search.json.mozlz4", (void 0)))
+1630076325432	Marionette	INFO	Listening on port 62694
+1630076325591	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630076516536	Marionette	INFO	Stopped listening on port 62694
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+Temp\\rust_mozprofileeF52Ks"
+1630076514032	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileeF52Ks\\search.json.mozlz4", (void 0)))
+1630076515653	Marionette	INFO	Listening on port 52901
+1630076515830	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/72vdk6ex8to4yaqb4639oo53o, line 2: TypeError: e is undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/72vdk6ex8to4yaqb4639oo53o, line 2: TypeError: e is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1630076565640	Marionette	INFO	Stopped listening on port 52901
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+Temp\\rust_mozprofileOJYlWm"
+1630076563924	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileOJYlWm\\search.json.mozlz4", (void 0)))
+1630076565608	Marionette	INFO	Listening on port 53034
+1630076565747	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630076577281	Marionette	INFO	Stopped listening on port 53034
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+Temp\\rust_mozprofilejAg1li"
+1630076574430	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofilejAg1li\\search.json.mozlz4", (void 0)))
+1630076576009	Marionette	INFO	Listening on port 53125
+1630076576246	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630076594096	Marionette	INFO	Stopped listening on port 53125
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630076599804	geckodriver	INFO	Listening on 127.0.0.1:53204
+1630076602898	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileUSTdHe"
+1630076603208	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileUSTdHe\\search.json.mozlz4", (void 0)))
+1630076604922	Marionette	INFO	Listening on port 53212
+1630076604941	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1630076980625	Marionette	INFO	Stopped listening on port 53211630076982503	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileJxol63"
+1630076982790	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileJxol63\\search.json.mozlz4", (void 0)))
+1630076984485	Marionette	INFO	Listening on port 65320
+1630076984567	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630076988120	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1630076988839	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1630076989556	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1630077065174	Marionette	INFO	Stopped listening on port 65320
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+tings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofilewPWEl8\\search.json.mozlz4", (void 0)))
+1630077053690	Marionette	INFO	Listening on port 51001
+1630077053905	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630077056255	Marionette	INFO	Stopped listening on port 51001
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1630077068736	geckodriver	INFO	Listening on 127.0.0.1:51071
+1630077071829	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileq5HRWD"
+1630077072151	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileq5HRWD\\search.json.mozlz4", (void 0)))
+1630077073938	Marionette	INFO	Listening on port 51079
+1630077074024	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630077077646	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1630077078376	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1630077079119	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1630077081984	Marionette	INFO	Stopped listening on port 51079
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630077153567	geckodriver	INFO	Listening on 127.0.0.1:51151
+1630077156650	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofile0oElbc"
+1630077156951	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofile0oElbc\\search.json.mozlz4", (void 0)))
+1630077158626	Marionette	INFO	Listening on port 51159
+1630077158740	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630077162373	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1630077163110	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1630077163839	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1630077524505	Marionette	INFO	Stopped listening on port 51159
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+Temp\\rust_mozprofileD8KEjp"
+1630077227502	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileD8KEjp\\search.json.mozlz4", (void 0)))
+1630077229109	Marionette	INFO	Listening on port 51243
+1630077229331	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630077236284	Marionette	INFO	Stopped listening on port 51243
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630077464898	geckodriver	INFO	Listening on 127.0.0.1:56001
+1630077467968	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofile4KbPfW"
+1630077468232	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofile4KbPfW\\search.json.mozlz4", (void 0)))
+1630077469818	Marionette	INFO	Listening on port 56012
+1630077470041	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630077476533	Marionette	INFO	Stopped listening on port 56012
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630077477097	geckodriver	INFO	Listening on 127.0.0.1:56079
+1630077480169	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofile5RSjBV"
+1630077480434	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofile5RSjBV\\search.json.mozlz4", (void 0)))
+1630077482041	Marionette	INFO	Listening on port 56087
+1630077482257	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630077488390	Marionette	INFO	Stopped listening on port 56087
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630077534803	geckodriver	INFO	Listening on 127.0.0.1:56160
+1630077537891	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofile6dp9LQ"
+1630077538190	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofile6dp9LQ\\search.json.mozlz4", (void 0)))
+1630077539864	Marionette	INFO	Listening on port 56169
+1630077539967	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/72vdk6ex8to4yaqb4639oo53o, line 2: TypeError: e is undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/72vdk6ex8to4yaqb4639oo53o, line 2: TypeError: e is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1630077600455	Marionette	INFO	Stopped listening on port 56169
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630077602163	geckodriver	INFO	Listening on 127.0.0.1:56253
+1630077605250	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileU0pN6G"
+1630077605547	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileU0pN6G\\search.json.mozlz4", (void 0)))
+1630077607275	Marionette	INFO	Listening on port 56262
+1630077607309	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript error: , line 0: uncaught exception: undefined
+1630077613405	Marionette	INFO	Stopped listening on port 56262
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630077763335	geckodriver	INFO	Listening on 127.0.0.1:56345
+1630077766427	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofiletYtxh3"
+1630077766726	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofiletYtxh3\\search.json.mozlz4", (void 0)))
+1630077768433	Marionette	INFO	Listening on port 56353
+1630077768515	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/72vdk6ex8to4yaqb4639oo53o, line 2: TypeError: e is undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/72vdk6ex8to4yaqb4639oo53o, line 2: TypeError: e is undefined
+1630077774752	Marionette	INFO	Stopped listening on port 56353
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630077810572	geckodriver	INFO	Listening on 127.0.0.1:58177
+1630077813664	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofilen0PSOB"
+1630077813995	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofilen0PSOB\\search.json.mozlz4", (void 0)))
+1630077815662	Marionette	INFO	Listening on port 58185
+1630077815756	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/72vdk6ex8to4yaqb4639oo53o, line 2: TypeError: e is undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/72vdk6ex8to4yaqb4639oo53o, line 2: TypeError: e is undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1630077821959	Marionette	INFO	Stopped listening on port 58185
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630077934930	geckodriver	INFO	Listening on 127.0.0.1:49332
+1630077937996	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofilekGwBl5"
+1630077938281	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofilekGwBl5\\search.json.mozlz4", (void 0)))
+1630077939936	Marionette	INFO	Listening on port 49341
+1630077940060	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/72vdk6ex8to4yaqb4639oo53o, line 2: TypeError: e is undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/72vdk6ex8to4yaqb4639oo53o, line 2: TypeError: e is undefined
+1630077946109	Marionette	INFO	Stopped listening on port 49341
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630077977191	geckodriver	INFO	Listening on 127.0.0.1:49424
+1630077980336	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileWJRNNw"
+1630077980630	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileWJRNNw\\search.json.mozlz4", (void 0)))
+1630077982422	Marionette	INFO	Listening on port 49432
+1630077982513	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630077988452	Marionette	INFO	Stopped listening on port 49432
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1630078015896	geckodriver	INFO	Listening on 127.0.0.1:49514
+1630078018992	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileC4iHBI"
+1630078019295	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileC4iHBI\\search.json.mozlz4", (void 0)))
+1630078021037	Marionette	INFO	Listening on port 49522
+1630078021067	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1630078751414	Marionette	INFO	Stopped listening on port 49522
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Listening on 127.0.0.1:64178
+1630078077725	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofile92AIcg"
+1630078077988	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofile92AIcg\\search.json.mozlz4", (void 0)))
+1630078079584	Marionette	INFO	Listening on port 49495
+1630078079793	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/72vdk6ex8to4yaqb4639oo53o, line 2: TypeError: e is undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/72vdk6ex8to4yaqb4639oo53o, line 2: TypeError: e is undefined
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1630078752375	Marionette	INFO	Stopped listening on port 49495
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ncaught exception: undefined
+1630078753247	Marionette	INFO	Stopped listening on port 57512
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+tings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofilexNoRzp\\search.json.mozlz4", (void 0)))
+1630078517445	Marionette	INFO	Listening on port 57623
+1630078517495	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/72vdk6ex8to4yaqb4639oo53o, line 2: TypeError: e is undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/72vdk6ex8to4yaqb4639oo53o, line 2: TypeError: e is undefined
+1630078754390	Marionette	INFO	Stopped listening on port 57623
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+tings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofilepyt6rx\\search.json.mozlz4", (void 0)))
+1630078580235	Marionette	INFO	Listening on port 57724
+1630078580263	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/72vdk6ex8to4yaqb4639oo53o, line 2: TypeError: e is undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/72vdk6ex8to4yaqb4639oo53o, line 2: TypeError: e is undefined
+1630078755356	Marionette	INFO	Stopped listening on port 57724
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+Temp\\rust_mozprofilevmrfzW"
+1630078618253	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofilevmrfzW\\search.json.mozlz4", (void 0)))
+1630078619955	Marionette	INFO	Listening on port 57811
+1630078620054	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630078624192	Marionette	INFO	Stopped listening on port 57811
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630078625843	geckodriver	INFO	Listening on 127.0.0.1:57875
+1630078628935	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofilejqwijz"
+1630078629204	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofilejqwijz\\search.json.mozlz4", (void 0)))
+1630078630925	Marionette	INFO	Listening on port 57883
+1630078631011	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/72vdk6ex8to4yaqb4639oo53o, line 2: TypeError: e is undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/72vdk6ex8to4yaqb4639oo53o, line 2: TypeError: e is undefined
+1630078756437	Marionette	INFO	Stopped listening on port 57883
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+tings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofilenpuslx\\search.json.mozlz4", (void 0)))
+1630078749070	Marionette	INFO	Listening on port 55096
+1630078749145	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630078962518	Marionette	INFO	Stopped listening on port 55096
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+tings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileDdnbMa\\search.json.mozlz4", (void 0)))
+1630078808751	Marionette	INFO	Listening on port 55189
+1630078808821	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630078963362	Marionette	INFO	Stopped listening on port 55189
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+tings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileaZLkpS\\search.json.mozlz4", (void 0)))
+1630078911829	Marionette	INFO	Listening on port 55280
+1630078912008	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630078964930	Marionette	INFO	Stopped listening on port 55280
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, mesconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileA3hh6e\\search.json.mozlz4", (void 0)))
+1630078965880	Marionette	INFO	Listening on port 55362
+1630078965897	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630079180087	Marionette	INFO	Stopped listening on port 55362
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 22312, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+ngs file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofile6HAzqA\\search.json.mozlz4", (void 0)))
+1630079033822	Marionette	INFO	Listening on port 61603
+1630079034026	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630079178264	Marionette	INFO	Stopped listening on port 61603
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+tings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileMu1wcm\\search.json.mozlz4", (void 0)))
+1630079155442	Marionette	INFO	Listening on port 50570
+1630079155679	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630079179019	Marionette	INFO	Stopped listening on port 50571630079179367	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileHYwQTN"
+1630079179638	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileHYwQTN\\search.json.mozlz4", (void 0)))
+1630079181260	Marionette	INFO	Listening on port 50651
+1630079181443	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript error: , line 0: uncaught exception: undefined
+1630079285444	Marionette	INFO	Stopped listening on port 50651
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+tings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileSR07jz\\search.json.mozlz4", (void 0)))
+1630079227064	Marionette	INFO	Listening on port 50731
+1630079227166	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630079286386	Marionette	INFO	Stopped listening on port 50731
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630079289629	geckodriver	INFO	Listening on 127.0.0.1:55510
+1630079292714	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofilennDVuL"
+1630079293008	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofilennDVuL\\search.json.mozlz4", (void 0)))
+1630079294664	Marionette	INFO	Listening on port 55518
+1630079294796	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+1630079617678	Marionette	INFO	Stopped listening on port 55518
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+Temp\\rust_mozprofileOIG54m"
+1630079420341	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileOIG54m\\search.json.mozlz4", (void 0)))
+1630079421954	Marionette	INFO	Listening on port 55942
+1630079422137	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/72vdk6ex8to4yaqb4639oo53o, line 2: TypeError: e is undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/72vdk6ex8to4yaqb4639oo53o, line 2: TypeError: e is undefined
+1630079618503	Marionette	INFO	Stopped listening on port 55942
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+Temp\\rust_mozprofileHyuDPO"
+1630079567023	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileHyuDPO\\search.json.mozlz4", (void 0)))
+1630079568622	Marionette	INFO	Listening on port 55111
+1630079568820	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1630079572454	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1630079624225	Marionette	INFO	Stopped listening on port 55111
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1630079628946	geckodriver	INFO	Listening on 127.0.0.1:62957
+1630079632020	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileVeGHbh"
+1630079632326	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileVeGHbh\\search.json.mozlz4", (void 0)))
+1630079634208	Marionette	INFO	Listening on port 62966
+1630079634728	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/72vdk6ex8to4yaqb4639oo53o, line 2: TypeError: e is undefined
+JavaScript error: https://static-exp1.licdn.com/sc/h/72vdk6ex8to4yaqb4639oo53o, line 2: TypeError: e is undefined
+1630079733634	Marionette	INFO	Stopped listening on port 62966
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+tings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\matt\\AppData\\Local\\Temp\\rust_mozprofileKAzxLu\\search.json.mozlz4", (void 0)))
+1630079695098	Marionette	INFO	Listening on port 49404
+1630079695347	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/4de994nc7ocqyv0iohbrcsmo9, line 2: Error: GoogleOneTapError display: unknown_reason
+JavaScript error: , line 0: uncaught exception: undefined
+1630079701586	Marionette	INFO	Stopped listening on port 49404
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
